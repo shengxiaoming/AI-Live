@@ -1,3 +1,5 @@
+![](https://views.whatilearened.today/views/github/shengxiaoming/AI-Live/views.svg)
+
 ## 💡简介
 一款专业的无人直播系统，可自定义音频，关键词回复，自主互动，自动关联弹出商品卡，自定义多条文本随机回复，绿幕助手，扣绿+实景+图片贴片+视频贴片等等功能，通过手机全部实现。
 
